@@ -1,6 +1,9 @@
 ## Installations
 
 ```bash
+git clone https://github.com/anullihate/chuck-norris-challenge.git
+cd chuck-norris-challenge
+
 yarn
 yarn dev
 # if you dont have yarn
@@ -8,6 +11,7 @@ npm install
 npm run dev
 
 php artisan serve
+# http://localhost:8000/#/
 ```
 
 ## Client Diretory Structure
