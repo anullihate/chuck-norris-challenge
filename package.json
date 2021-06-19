@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "cd resources/client && yarn dev",
+        "build": "cd resources/client && yarn build",
+        "serve": "cd resources/client && yarn serve"
+    }
+}

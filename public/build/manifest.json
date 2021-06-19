@@ -1,0 +1,16 @@
+{
+  "src/main.ts": {
+    "file": "assets/main.a9811fab.js",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "imports": [
+      "_vendor.e2b85d2c.js"
+    ],
+    "css": [
+      "assets/main.66775952.css"
+    ]
+  },
+  "_vendor.e2b85d2c.js": {
+    "file": "assets/vendor.e2b85d2c.js"
+  }
+}
