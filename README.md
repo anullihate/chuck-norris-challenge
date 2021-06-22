@@ -13,6 +13,19 @@ npm run dev
 php artisan serve
 # http://localhost:8000/#/
 ```
+## Env
+
+### client
+```bash
+# resources/client/.env
+BASE_URL=/
+VITE_API_HOST=https://api.chucknorris.io
+```
+### server
+```bash
+# .
+cp .env.example .env
+```
 
 ## Client Diretory Structure
 
